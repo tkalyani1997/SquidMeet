@@ -8,8 +8,9 @@ namespace ContosoCrafts.WebSite.Pages
 {
 
     /// <summary>
+    /// Laharika
     /// Mike Koenig
-    /// </summary>
+    /// </summary>https://github.com/jen-chieh/SquidMeet.git
     public class IndexModel : PageModel
     {
         private readonly ILogger<IndexModel> _logger;
