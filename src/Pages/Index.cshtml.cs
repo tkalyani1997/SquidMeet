@@ -9,6 +9,7 @@ namespace ContosoCrafts.WebSite.Pages
 
     /// <summary>
     /// Selina Hu
+    /// JenChieh Lu
     /// </summary>
 
     public class IndexModel : PageModel
