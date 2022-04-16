@@ -1,0 +1,17 @@
+[
+    {
+        "type_id": "625b272f4daa8edde8babfa4",
+        "index": 0,
+        "typeName": "bars/cafes"
+    },
+    {
+        "type_id": "625b272f2bf702f2e3dad97b",
+        "index": 1,
+        "typeName": "parks"
+    },
+    {
+        "type_id": "625b272f3347b0aa13eb40a3",
+        "index": 2,
+        "typeName": "conference rooms"
+    }
+]
