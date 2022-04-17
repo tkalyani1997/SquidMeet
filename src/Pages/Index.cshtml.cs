@@ -11,6 +11,7 @@ namespace ContosoCrafts.WebSite.Pages
     /// Yucong Li
     /// Selina Hu
     /// JenChieh Lu
+    /// Laharika Kalyani
     /// </summary>
 
     public class IndexModel : PageModel
